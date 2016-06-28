@@ -24,5 +24,6 @@ android {
     defaultConfig {
         minSdkVersion 7
         targetSdkVersion 16
+        manifestPlaceholders = [HOCKEYAPP_APP_ID: "2dd048741794446cad7f6231d7aef9e8"]
     }
 }
