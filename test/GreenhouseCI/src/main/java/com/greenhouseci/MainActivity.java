@@ -1,4 +1,3 @@
-package com.greenhouseci;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -57,3 +56,4 @@ public class YourActivity extends Activity {
   }
 }
 }
+
